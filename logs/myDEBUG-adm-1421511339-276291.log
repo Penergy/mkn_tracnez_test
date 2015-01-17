@@ -1,0 +1,1 @@
+[17-Jan-2015 17:15:39 Europe/Berlin] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /Applications/MAMP/htdocs/zencartmkns/uiwpa/includes/modules/product/preview_info.php on line 166

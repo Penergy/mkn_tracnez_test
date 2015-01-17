@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cdc0f32-af7d-4cce-b039-a975c8240c33" name="Default" comment="" />
+    <ignored path="zencartmkns.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="zencartmkns" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="image_handler.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uiwpa/image_handler.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-230.88235" vertical-offset="0" max-vertical-offset="17310">
+              <caret line="795" column="96" selection-start-line="795" selection-start-column="92" selection-end-line="795" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uiwpa/product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.5294118" vertical-offset="867" max-vertical-offset="5805">
+              <caret line="63" column="90" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="99" />
+              <folding>
+                <element signature="e#6#281#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update_product.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uiwpa/includes/modules/update_product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.261498" vertical-offset="544" max-vertical-offset="3030">
+              <caret line="157" column="18" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="18" />
+              <folding>
+                <marker date="1421523619000" expanded="true" signature="4973:5164" placeholder="insert into ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.0588236" vertical-offset="570" max-vertical-offset="1920">
+              <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+              <folding>
+                <element signature="e#6#908#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_product_preview.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uiwpa/includes/modules/new_product_preview.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.705882" vertical-offset="0" max-vertical-offset="645">
+              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="preview_info.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uiwpa/includes/modules/product/preview_info.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.294118" vertical-offset="375" max-vertical-offset="2715">
+              <caret line="66" column="98" selection-start-line="66" selection-start-column="98" selection-end-line="66" selection-end-column="98" />
+              <folding>
+                <marker date="1421524251000" expanded="true" signature="641:1776" placeholder="select p.pro..TABLE_PRODUCTS..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="general.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uiwpa/includes/functions/general.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.607843" vertical-offset="32435" max-vertical-offset="51450">
+              <caret line="2184" column="11" selection-start-line="2184" selection-start-column="11" selection-end-line="2184" selection-end-column="11" />
+              <folding>
+                <marker date="1348219444000" expanded="true" signature="1890:2077" placeholder="select custo..TABLE_CUSTOMERS..." />
+                <marker date="1348219444000" expanded="true" signature="2654:2854" placeholder="select paren..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="2901:3090" placeholder="select paren..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="6675:6954" placeholder="select cd.ca..TABLE_CATEGORIES_DESCRIPTION..." />
+                <marker date="1348219444000" expanded="true" signature="7104:7581" placeholder="select c.cat..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="8896:9550" placeholder="select p.pro..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="9599:9992" placeholder="select p.pro..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="10903:11189" placeholder="select produ..TABLE_PRODUCTS_OPTIONS..." />
+                <marker date="1348219444000" expanded="true" signature="11354:11657" placeholder="select produ..TABLE_PRODUCTS_OPTIONS_VALUES..." />
+                <marker date="1348219444000" expanded="true" signature="12540:12696" placeholder="select count..TABLE_COUNTRIES..." />
+                <marker date="1348219444000" expanded="true" signature="12925:13081" placeholder="select count..TABLE_COUNTRIES..." />
+                <marker date="1348219444000" expanded="true" signature="13336:13562" placeholder="select zone_..TABLE_ZONES..." />
+                <marker date="1348219444000" expanded="true" signature="14509:14657" placeholder="select tax_c..TABLE_TAX_CLASS..." />
+                <marker date="1348219444000" expanded="true" signature="15209:15360" placeholder="select geo_z..TABLE_GEO_ZONES..." />
+                <marker date="1348219444000" expanded="true" signature="15828:15979" placeholder="select geo_z..TABLE_GEO_ZONES..." />
+                <marker date="1348219444000" expanded="true" signature="19577:19764" placeholder="select zone_..TABLE_ZONES..." />
+                <marker date="1348219444000" expanded="true" signature="20388:20517" placeholder="select langu..TABLE_LANGUAGES..." />
+                <marker date="1348219444000" expanded="true" signature="21108:21358" placeholder="select categ..TABLE_CATEGORIES_DESCRIPTION..." />
+                <marker date="1348219444000" expanded="true" signature="21534:21791" placeholder="select categ..TABLE_CATEGORIES_DESCRIPTION..." />
+                <marker date="1348219444000" expanded="true" signature="22053:22320" placeholder="select order..TABLE_ORDERS_STATUS..." />
+                <marker date="1348219444000" expanded="true" signature="22513:22781" placeholder="select order..TABLE_ORDERS_STATUS..." />
+                <marker date="1348219444000" expanded="true" signature="23265:23505" placeholder="select produ..TABLE_PRODUCTS_DESCRIPTION..." />
+                <marker date="1348219444000" expanded="true" signature="23676:23923" placeholder="select produ..TABLE_PRODUCTS_DESCRIPTION..." />
+                <marker date="1348219444000" expanded="true" signature="24093:24332" placeholder="select produ..TABLE_PRODUCTS_DESCRIPTION..." />
+                <marker date="1348219444000" expanded="true" signature="24598:24866" placeholder="select manuf..TABLE_MANUFACTURERS_INFO..." />
+                <marker date="1348219444000" expanded="true" signature="25671:25955" placeholder="select count..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="26019:26361" placeholder="select count..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="26496:26624" placeholder="select categ..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="27120:27282" placeholder="select categ..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="27826:27976" placeholder="select count..TABLE_COUNTRIES..." />
+                <marker date="1348219444000" expanded="true" signature="28405:28606" placeholder="select zone_..TABLE_ZONES..." />
+                <marker date="1348219444000" expanded="true" signature="29816:29987" placeholder="select addre..TABLE_ADDRESS_FORMAT..." />
+                <marker date="1348219444000" expanded="true" signature="30550:30744" placeholder="select cd.co..TABLE_COUPONS..." />
+                <marker date="1348219444000" expanded="true" signature="32224:32376" placeholder="select tax_c..TABLE_TAX_CLASS..." />
+                <marker date="1348219444000" expanded="true" signature="33360:33493" placeholder="select zone_..TABLE_ZONES..." />
+                <marker date="1348219444000" expanded="true" signature="40211:40380" placeholder="select categ..TABLE_PRODUCTS_TO_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="40611:41043" placeholder="select cd.ca..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="41633:42016" placeholder="select cd.ca..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="44364:44679" placeholder="select * fro..TABLE_SALEMAKER_SALES..." />
+                <marker date="1348219444000" expanded="true" signature="44780:45075" placeholder="select * fro..TABLE_SALEMAKER_SALES..." />
+                <marker date="1348219444000" expanded="true" signature="46138:46218" placeholder="DELETE from ..." />
+                <marker date="1348219444000" expanded="true" signature="52990:53165" placeholder="select categ..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="53207:53471" placeholder="select count..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="53737:53841" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="53864:53980" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="54003:54119" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="54142:54267" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="54290:54397" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="54519:54685" placeholder="select produ..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="54727:54941" placeholder="select count..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="56132:56231" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="56254:56353" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="56406:56521" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="56552:56663" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="56686:56807" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="56889:56999" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="57022:57129" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="57152:57270" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="57313:57478" placeholder="select revie..TABLE_REVIEWS..." />
+                <marker date="1348219444000" expanded="true" signature="57540:57678" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="57742:57840" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="57863:57962" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="57985:58102" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="58125:58230" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="58395:58509" placeholder="select produ..TABLE_PRODUCTS_ATTRIBUTES..." />
+                <marker date="1348219444000" expanded="true" signature="58571:58717" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="58901:59074" placeholder="select produ..TABLE_ORDERS_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="59482:59557" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="59579:59681" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="59704:59817" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="59840:59951" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="59974:60082" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="60105:60204" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="60227:60351" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="64078:64241" placeholder="select tax_c..TABLE_TAX_CLASS..." />
+                <marker date="1348219444000" expanded="true" signature="66135:66897" placeholder="select SUM(t..TABLE_TAX_RATES..." />
+                <marker date="1348219444000" expanded="true" signature="67710:67871" placeholder="select geo_z..TABLE_GEO_ZONES..." />
+                <marker date="1348219444000" expanded="true" signature="68210:68359" placeholder="select geo_z..TABLE_GEO_ZONES..." />
+                <marker date="1348219444000" expanded="true" signature="68957:69210" placeholder="select order..TABLE_ORDERS_STATUS..." />
+                <marker date="1348219444000" expanded="true" signature="69831:70076" placeholder="select order..TABLE_ORDERS_STATUS..." />
+                <marker date="1348219444000" expanded="true" signature="72088:72226" placeholder="select coupo..TABLE_COUPONS..." />
+                <marker date="1348219444000" expanded="true" signature="72460:72625" placeholder="select amoun..TABLE_COUPON_GV_CUSTOMER..." />
+                <marker date="1348219444000" expanded="true" signature="72661:72810" placeholder="select coupo..TABLE_COUPONS..." />
+                <marker date="1348219444000" expanded="true" signature="73210:73360" placeholder="insert into ..." />
+                <marker date="1348219444000" expanded="true" signature="75104:75538" placeholder="select produ..TABLE_PRODUCTS_OPTIONS_VALUES_TO_PRODUCTS_OPTIONS..." />
+                <marker date="1348219444000" expanded="true" signature="75934:76119" placeholder="select produ..TABLE_PRODUCTS_OPTIONS_VALUES_TO_PRODUCTS_OPTIONS..." />
+                <marker date="1348219444000" expanded="true" signature="76159:76443" placeholder="select produ..TABLE_PRODUCTS_OPTIONS..." />
+                <marker date="1348219444000" expanded="true" signature="76639:76774" placeholder="select produ..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="76976:77137" placeholder="select count..." />
+                <marker date="1348219444000" expanded="true" signature="77597:77943" placeholder="select pa.pr..TABLE_PRODUCTS_ATTRIBUTES..." />
+                <marker date="1348219444000" expanded="true" signature="78052:78239" placeholder="select pa.pr..TABLE_PRODUCTS_ATTRIBUTES..." />
+                <marker date="1348219444000" expanded="true" signature="78556:78706" placeholder="select count..." />
+                <marker date="1348219444000" expanded="true" signature="80691:80787" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="80868:81003" placeholder="select * fro..TABLE_PRODUCTS_ATTRIBUTES..." />
+                <marker date="1348219444000" expanded="true" signature="81219:81480" placeholder="select * fro..TABLE_PRODUCTS_ATTRIBUTES..." />
+                <marker date="1348219444000" expanded="true" signature="82873:85564" placeholder="insert into ..." />
+                <marker date="1348219444000" expanded="true" signature="90894:90999" placeholder="select direc..TABLE_LANGUAGES..." />
+                <marker date="1348219444000" expanded="true" signature="91321:91499" placeholder="select produ..TABLE_PRODUCTS_OPTIONS..." />
+                <marker date="1348219444000" expanded="true" signature="91732:91939" placeholder="select produ..TABLE_PRODUCTS_OPTIONS..." />
+                <marker date="1348219444000" expanded="true" signature="92134:92223" placeholder="select direc..TABLE_LANGUAGES..." />
+                <marker date="1348219444000" expanded="true" signature="92477:92730" placeholder="select pa.pr..TABLE_PRODUCTS_ATTRIBUTES..." />
+                <marker date="1348219444000" expanded="true" signature="92796:92947" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="93017:93116" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="93344:93688" placeholder="select disti..TABLE_PRODUCTS_ATTRIBUTES..." />
+                <marker date="1348219444000" expanded="true" signature="99263:99636" placeholder="select pa.pr..TABLE_PRODUCTS_ATTRIBUTES..." />
+                <marker date="1348219444000" expanded="true" signature="100951:101324" placeholder="select pa.pr..TABLE_PRODUCTS_ATTRIBUTES..." />
+                <marker date="1348219444000" expanded="true" signature="102219:102397" placeholder="select p.pro..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="103063:103225" placeholder="select paren..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="103881:103997" placeholder="select produ..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="104392:104554" placeholder="select paren..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="104855:104970" placeholder="select confi..TABLE_CONFIGURATION..." />
+                <marker date="1348219444000" expanded="true" signature="107013:107110" placeholder="select type_..TABLE_PRODUCT_TYPES..." />
+                <marker date="1348219444000" expanded="true" signature="109011:109172" placeholder="select confi..TABLE_PRODUCT_TYPE_LAYOUT..." />
+                <marker date="1348219444000" expanded="true" signature="109570:109728" placeholder="select count..." />
+                <marker date="1348219444000" expanded="true" signature="110106:110531" placeholder="select c.cat..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="111192:111222" placeholder="select categ..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="111544:111572" placeholder="select produ..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="111896:111910" placeholder="select * fro..TABLE_PRODUCTS_TO_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="112626:112741" placeholder="select produ..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="112785:112995" placeholder="select categ..TABLE_CATEGORIES_DESCRIPTION..." />
+                <marker date="1348219444000" expanded="true" signature="113162:113478" placeholder="select count..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="113725:113883" placeholder="select categ..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="115027:115294" placeholder="select count..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="115377:115640" placeholder="select p.pro..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="115770:116098" placeholder="select count..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="116183:116507" placeholder="select p.pro..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="117063:117221" placeholder="select categ..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="118315:118802" placeholder="select ptc.p..TABLE_PRODUCTS_TO_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="119438:119531" placeholder="select produ..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="120809:120975" placeholder="select produ..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="122823:122917" placeholder="select categ..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="123012:123234" placeholder="select * fro..TABLE_PRODUCT_TYPES_TO_CATEGORY..." />
+                <marker date="1348219444000" expanded="true" signature="123897:123991" placeholder="select categ..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="124085:124288" placeholder="delete from ..." />
+                <marker date="1348219444000" expanded="true" signature="125182:125271" placeholder="select produ..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="125330:125451" placeholder="select type_..TABLE_PRODUCT_TYPES..." />
+                <marker date="1348219444000" expanded="true" signature="125632:125772" placeholder="select confi..TABLE_PRODUCT_TYPE_LAYOUT..." />
+                <marker date="1348219444000" expanded="true" signature="126106:126240" placeholder="select confi..TABLE_CONFIGURATION..." />
+                <marker date="1348219444000" expanded="true" signature="126703:126792" placeholder="select produ..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="126851:126972" placeholder="select type_..TABLE_PRODUCT_TYPES..." />
+                <marker date="1348219444000" expanded="true" signature="128755:128866" placeholder="select sale_..TABLE_SALEMAKER_SALES..." />
+                <marker date="1348219444000" expanded="true" signature="129104:129228" placeholder="select produ..TABLE_PRODUCTS_TO_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="129564:129670" placeholder="select produ..TABLE_PRODUCTS_DISCOUNT_QUANTITY..." />
+                <marker date="1348219444000" expanded="true" signature="130008:130172" placeholder="select produ..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="130668:130787" placeholder="select * fro..TABLE_PRODUCTS_DISCOUNT_QUANTITY..." />
+                <marker date="1348219444000" expanded="true" signature="130926:131239" placeholder="insert into ..." />
+                <marker date="1348219444000" expanded="true" signature="131489:131655" placeholder="select maste..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="134803:135083" placeholder="select p.pro..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="135132:135472" placeholder="select p.pro..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="135825:135953" placeholder="select categ..TABLE_CATEGORIES..." />
+                <marker date="1348219444000" expanded="true" signature="136449:136600" placeholder="select geo_z..TABLE_GEO_ZONES..." />
+                <marker date="1348219444000" expanded="true" signature="137322:137622" placeholder="SELECT c.*, ..TABLE_CUSTOMERS..." />
+                <marker date="1348219444000" expanded="true" signature="137877:138155" placeholder="SELECT osh.c..TABLE_ORDERS_STATUS_HISTORY..." />
+                <marker date="1348219444000" expanded="true" signature="138397:138672" placeholder="select m.man..TABLE_PRODUCTS..." />
+                <marker date="1348219444000" expanded="true" signature="138913:139005" placeholder="select amoun..TABLE_COUPON_GV_CUSTOMER..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="configure.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uiwpa/includes/configure.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.9607844" vertical-offset="347" max-vertical-offset="1545">
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collect_info.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uiwpa/includes/modules/product/collect_info.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.117647" vertical-offset="6540" max-vertical-offset="7860">
+              <caret line="473" column="32" selection-start-line="473" selection-start-column="32" selection-end-line="473" selection-end-column="32" />
+              <folding>
+                <marker date="1421511227000" expanded="true" signature="2202:3763" placeholder="select pd.pr..TABLE_PRODUCTS..." />
+                <marker date="1421511227000" expanded="true" signature="4156:4295" placeholder="select manuf..TABLE_MANUFACTURERS..." />
+                <marker date="1421511227000" expanded="true" signature="4661:4788" placeholder="select tax_c..TABLE_TAX_CLASS..." />
+                <marker date="1421511227000" expanded="true" signature="29934:29961" placeholder="..." />
+                <marker date="1421511227000" expanded="true" signature="30357:30384" placeholder="..." />
+                <marker date="1421511227000" expanded="true" signature="30955:30980" placeholder="..." />
+                <marker date="1421511227000" expanded="true" signature="31148:31171" placeholder="..." />
+                <marker date="1421511227000" expanded="true" signature="31855:31880" placeholder="..." />
+                <marker date="1421511227000" expanded="true" signature="31983:32006" placeholder="..." />
+                <marker date="1421511227000" expanded="true" signature="32261:32286" placeholder="..." />
+                <marker date="1421511227000" expanded="true" signature="32389:32412" placeholder="..." />
+                <marker date="1421511227000" expanded="true" signature="32709:32802" placeholder="..." />
+                <marker date="1421511227000" expanded="true" signature="32813:32832" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html_output.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uiwpa/includes/functions/html_output.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.9607844" vertical-offset="1157" max-vertical-offset="5430">
+              <caret line="100" column="11" selection-start-line="100" selection-start-column="11" selection-end-line="100" selection-end-column="11" />
+              <folding>
+                <marker date="1347663842000" expanded="true" signature="6082:6225" placeholder="select disti..TABLE_ZONES..." />
+                <marker date="1347663842000" expanded="true" signature="6626:6857" placeholder="select zone_..TABLE_ZONES..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MKNapps/mknUploadIm/upload.php" />
+        <option value="$PROJECT_DIR$/uiwpa/MKNapps/mknUploadIm/upload.php" />
+        <option value="$PROJECT_DIR$/uiwpa/image_handler.php" />
+        <option value="$PROJECT_DIR$/uiwpa/mkn_test.php" />
+        <option value="$PROJECT_DIR$/uiwpa/includes/modules/product/collect_info.php" />
+        <option value="$PROJECT_DIR$/uiwpa/includes/modules/new_product_preview.php" />
+        <option value="$PROJECT_DIR$/uiwpa/product.php" />
+        <option value="$PROJECT_DIR$/uiwpa/includes/modules/update_product.php" />
+        <option value="$PROJECT_DIR$/uiwpa/includes/modules/product/preview_info.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PHP</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zencartmkns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zencartmkns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zencartmkns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zencartmkns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zencartmkns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiwpa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zencartmkns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zencartmkns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/uiwpa" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cdc0f32-af7d-4cce-b039-a975c8240c33" name="Default" comment="" />
+      <created>1421336105326</created>
+      <option name="number" value="Default" />
+      <updated>1421336105326</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24444444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/uiwpa/MKNapps/mknUploadIm/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="870">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/image_handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15442" max-vertical-offset="17280">
+          <caret line="1055" column="33" selection-start-line="1055" selection-start-column="33" selection-end-line="1055" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/functions/html_output.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5430">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1347663842000" expanded="true" signature="6082:6225" placeholder="select disti..TABLE_ZONES..." />
+            <marker date="1347663842000" expanded="true" signature="6626:6857" placeholder="select zone_..TABLE_ZONES..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/application_top.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1417" max-vertical-offset="2205">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/mkn_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="660">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#286#0#PHP" expanded="true" />
+            <marker date="1421441817000" expanded="true" signature="-1:-1" placeholder="select pd.pr..TABLE_PRODUCTS..." />
+            <marker date="1421441817000" expanded="true" signature="-1:-1" placeholder="select manuf..TABLE_MANUFACTURERS..." />
+            <marker date="1421441817000" expanded="true" signature="-1:-1" placeholder="select tax_c..TABLE_TAX_CLASS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/MKNapps/mknUploadIm/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="840">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/languages/english/extra_definitions/bmz_image_handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="2160">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34332085" vertical-offset="11305" max-vertical-offset="16425">
+          <caret line="772" column="9" selection-start-line="772" selection-start-column="9" selection-end-line="772" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/classes/box.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.625" vertical-offset="15" max-vertical-offset="915">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/MKNapps/mknUploadIm/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="870">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/classes/db/mysql/query_factory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34332085" vertical-offset="1450" max-vertical-offset="8235">
+          <caret line="125" column="11" selection-start-line="125" selection-start-column="11" selection-end-line="125" selection-end-column="11" />
+          <folding>
+            <marker date="1348219506000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/popup_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29069766" vertical-offset="0" max-vertical-offset="1005">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <marker date="1326187620000" expanded="true" signature="-1:-1" placeholder="select banne..TABLE_BANNERS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/filenames.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.625" vertical-offset="1995" max-vertical-offset="2820">
+          <caret line="184" column="7" selection-start-line="184" selection-start-column="7" selection-end-line="184" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/application_top.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2205">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/init_includes/init_image_handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="345" max-vertical-offset="8220">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/classes/bmz_gif_info.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/classes/bmz_image_handler.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0588236" vertical-offset="2577" max-vertical-offset="10650">
+          <caret line="199" column="10" selection-start-line="199" selection-start-column="2" selection-end-line="199" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/extra_datafiles/image_handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3426396" vertical-offset="540" max-vertical-offset="20880">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32459426" vertical-offset="4975" max-vertical-offset="16770">
+          <caret line="349" column="9" selection-start-line="349" selection-start-column="9" selection-end-line="349" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/languages/schinese/extra_definitions/bmz_image_handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33248731" vertical-offset="683" max-vertical-offset="2160">
+          <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/languages/english/extra_definitions/bmz_image_handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33248731" vertical-offset="698" max-vertical-offset="2160">
+          <caret line="73" column="7" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/languages/english/product_free_shipping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3426396" vertical-offset="1710" max-vertical-offset="2685">
+          <caret line="138" column="9" selection-start-line="138" selection-start-column="9" selection-end-line="138" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/languages/schinese/product_music.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3426396" vertical-offset="1770" max-vertical-offset="2745">
+          <caret line="143" column="9" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/schinese/products_all.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="300">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/modules/product/preview_info_meta_tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.625" vertical-offset="225" max-vertical-offset="2115">
+          <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+          <folding>
+            <element signature="e#6#309#0#PHP" expanded="true" />
+            <marker date="1348149804000" expanded="true" signature="-1:-1" placeholder="select pd.pr..TABLE_PRODUCTS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/modules/product/collect_info_metatags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2685">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1329248880000" expanded="true" signature="-1:-1" placeholder="select produ..TABLE_META_TAGS_PRODUCTS_DESCRIPTION..." />
+            <marker date="1329248880000" expanded="true" signature="-1:-1" placeholder="select pd.pr..TABLE_PRODUCTS..." />
+            <marker date="1329248880000" expanded="true" signature="-1:-1" placeholder="select pd.pr..TABLE_PRODUCTS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/dist-configure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34332085" vertical-offset="235" max-vertical-offset="1290">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/classes/object_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="330">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/languages/english.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="7845" max-vertical-offset="10950">
+          <caret line="547" column="9" selection-start-line="547" selection-start-column="9" selection-end-line="547" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/languages/schinese/product_free_shipping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3426396" vertical-offset="1005" max-vertical-offset="2685">
+          <caret line="92" column="7" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/languages/schinese/document_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.916667" vertical-offset="1043" max-vertical-offset="2685">
+          <caret line="94" column="7" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/mkn_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7906091" vertical-offset="6322" max-vertical-offset="7800">
+          <caret line="463" column="33" selection-start-line="463" selection-start-column="33" selection-end-line="463" selection-end-column="33" />
+          <folding>
+            <element signature="e#6#286#0#PHP" expanded="true" />
+            <marker date="1421441817000" expanded="true" signature="-1:-1" placeholder="select pd.pr..TABLE_PRODUCTS..." />
+            <marker date="1421441817000" expanded="true" signature="-1:-1" placeholder="select manuf..TABLE_MANUFACTURERS..." />
+            <marker date="1421441817000" expanded="true" signature="-1:-1" placeholder="select tax_c..TABLE_TAX_CLASS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/database_tables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41947564" vertical-offset="654" max-vertical-offset="1455">
+          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/classes/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7647059" vertical-offset="0" max-vertical-offset="2835">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/languages/schinese/document_general.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="735" max-vertical-offset="2595">
+          <caret line="74" column="7" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/functions/html_output.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.9607844" vertical-offset="1157" max-vertical-offset="5430">
+          <caret line="100" column="11" selection-start-line="100" selection-start-column="11" selection-end-line="100" selection-end-column="11" />
+          <folding>
+            <marker date="1347663842000" expanded="true" signature="6082:6225" placeholder="select disti..TABLE_ZONES..." />
+            <marker date="1347663842000" expanded="true" signature="6626:6857" placeholder="select zone_..TABLE_ZONES..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/functions/general.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.607843" vertical-offset="32435" max-vertical-offset="51450">
+          <caret line="2184" column="11" selection-start-line="2184" selection-start-column="11" selection-end-line="2184" selection-end-column="11" />
+          <folding>
+            <marker date="1348219444000" expanded="true" signature="1890:2077" placeholder="select custo..TABLE_CUSTOMERS..." />
+            <marker date="1348219444000" expanded="true" signature="2654:2854" placeholder="select paren..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="2901:3090" placeholder="select paren..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="6675:6954" placeholder="select cd.ca..TABLE_CATEGORIES_DESCRIPTION..." />
+            <marker date="1348219444000" expanded="true" signature="7104:7581" placeholder="select c.cat..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="8896:9550" placeholder="select p.pro..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="9599:9992" placeholder="select p.pro..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="10903:11189" placeholder="select produ..TABLE_PRODUCTS_OPTIONS..." />
+            <marker date="1348219444000" expanded="true" signature="11354:11657" placeholder="select produ..TABLE_PRODUCTS_OPTIONS_VALUES..." />
+            <marker date="1348219444000" expanded="true" signature="12540:12696" placeholder="select count..TABLE_COUNTRIES..." />
+            <marker date="1348219444000" expanded="true" signature="12925:13081" placeholder="select count..TABLE_COUNTRIES..." />
+            <marker date="1348219444000" expanded="true" signature="13336:13562" placeholder="select zone_..TABLE_ZONES..." />
+            <marker date="1348219444000" expanded="true" signature="14509:14657" placeholder="select tax_c..TABLE_TAX_CLASS..." />
+            <marker date="1348219444000" expanded="true" signature="15209:15360" placeholder="select geo_z..TABLE_GEO_ZONES..." />
+            <marker date="1348219444000" expanded="true" signature="15828:15979" placeholder="select geo_z..TABLE_GEO_ZONES..." />
+            <marker date="1348219444000" expanded="true" signature="19577:19764" placeholder="select zone_..TABLE_ZONES..." />
+            <marker date="1348219444000" expanded="true" signature="20388:20517" placeholder="select langu..TABLE_LANGUAGES..." />
+            <marker date="1348219444000" expanded="true" signature="21108:21358" placeholder="select categ..TABLE_CATEGORIES_DESCRIPTION..." />
+            <marker date="1348219444000" expanded="true" signature="21534:21791" placeholder="select categ..TABLE_CATEGORIES_DESCRIPTION..." />
+            <marker date="1348219444000" expanded="true" signature="22053:22320" placeholder="select order..TABLE_ORDERS_STATUS..." />
+            <marker date="1348219444000" expanded="true" signature="22513:22781" placeholder="select order..TABLE_ORDERS_STATUS..." />
+            <marker date="1348219444000" expanded="true" signature="23265:23505" placeholder="select produ..TABLE_PRODUCTS_DESCRIPTION..." />
+            <marker date="1348219444000" expanded="true" signature="23676:23923" placeholder="select produ..TABLE_PRODUCTS_DESCRIPTION..." />
+            <marker date="1348219444000" expanded="true" signature="24093:24332" placeholder="select produ..TABLE_PRODUCTS_DESCRIPTION..." />
+            <marker date="1348219444000" expanded="true" signature="24598:24866" placeholder="select manuf..TABLE_MANUFACTURERS_INFO..." />
+            <marker date="1348219444000" expanded="true" signature="25671:25955" placeholder="select count..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="26019:26361" placeholder="select count..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="26496:26624" placeholder="select categ..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="27120:27282" placeholder="select categ..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="27826:27976" placeholder="select count..TABLE_COUNTRIES..." />
+            <marker date="1348219444000" expanded="true" signature="28405:28606" placeholder="select zone_..TABLE_ZONES..." />
+            <marker date="1348219444000" expanded="true" signature="29816:29987" placeholder="select addre..TABLE_ADDRESS_FORMAT..." />
+            <marker date="1348219444000" expanded="true" signature="30550:30744" placeholder="select cd.co..TABLE_COUPONS..." />
+            <marker date="1348219444000" expanded="true" signature="32224:32376" placeholder="select tax_c..TABLE_TAX_CLASS..." />
+            <marker date="1348219444000" expanded="true" signature="33360:33493" placeholder="select zone_..TABLE_ZONES..." />
+            <marker date="1348219444000" expanded="true" signature="40211:40380" placeholder="select categ..TABLE_PRODUCTS_TO_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="40611:41043" placeholder="select cd.ca..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="41633:42016" placeholder="select cd.ca..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="44364:44679" placeholder="select * fro..TABLE_SALEMAKER_SALES..." />
+            <marker date="1348219444000" expanded="true" signature="44780:45075" placeholder="select * fro..TABLE_SALEMAKER_SALES..." />
+            <marker date="1348219444000" expanded="true" signature="46138:46218" placeholder="DELETE from ..." />
+            <marker date="1348219444000" expanded="true" signature="52990:53165" placeholder="select categ..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="53207:53471" placeholder="select count..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="53737:53841" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="53864:53980" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="54003:54119" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="54142:54267" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="54290:54397" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="54519:54685" placeholder="select produ..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="54727:54941" placeholder="select count..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="56132:56231" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="56254:56353" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="56406:56521" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="56552:56663" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="56686:56807" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="56889:56999" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="57022:57129" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="57152:57270" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="57313:57478" placeholder="select revie..TABLE_REVIEWS..." />
+            <marker date="1348219444000" expanded="true" signature="57540:57678" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="57742:57840" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="57863:57962" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="57985:58102" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="58125:58230" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="58395:58509" placeholder="select produ..TABLE_PRODUCTS_ATTRIBUTES..." />
+            <marker date="1348219444000" expanded="true" signature="58571:58717" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="58901:59074" placeholder="select produ..TABLE_ORDERS_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="59482:59557" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="59579:59681" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="59704:59817" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="59840:59951" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="59974:60082" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="60105:60204" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="60227:60351" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="64078:64241" placeholder="select tax_c..TABLE_TAX_CLASS..." />
+            <marker date="1348219444000" expanded="true" signature="66135:66897" placeholder="select SUM(t..TABLE_TAX_RATES..." />
+            <marker date="1348219444000" expanded="true" signature="67710:67871" placeholder="select geo_z..TABLE_GEO_ZONES..." />
+            <marker date="1348219444000" expanded="true" signature="68210:68359" placeholder="select geo_z..TABLE_GEO_ZONES..." />
+            <marker date="1348219444000" expanded="true" signature="68957:69210" placeholder="select order..TABLE_ORDERS_STATUS..." />
+            <marker date="1348219444000" expanded="true" signature="69831:70076" placeholder="select order..TABLE_ORDERS_STATUS..." />
+            <marker date="1348219444000" expanded="true" signature="72088:72226" placeholder="select coupo..TABLE_COUPONS..." />
+            <marker date="1348219444000" expanded="true" signature="72460:72625" placeholder="select amoun..TABLE_COUPON_GV_CUSTOMER..." />
+            <marker date="1348219444000" expanded="true" signature="72661:72810" placeholder="select coupo..TABLE_COUPONS..." />
+            <marker date="1348219444000" expanded="true" signature="73210:73360" placeholder="insert into ..." />
+            <marker date="1348219444000" expanded="true" signature="75104:75538" placeholder="select produ..TABLE_PRODUCTS_OPTIONS_VALUES_TO_PRODUCTS_OPTIONS..." />
+            <marker date="1348219444000" expanded="true" signature="75934:76119" placeholder="select produ..TABLE_PRODUCTS_OPTIONS_VALUES_TO_PRODUCTS_OPTIONS..." />
+            <marker date="1348219444000" expanded="true" signature="76159:76443" placeholder="select produ..TABLE_PRODUCTS_OPTIONS..." />
+            <marker date="1348219444000" expanded="true" signature="76639:76774" placeholder="select produ..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="76976:77137" placeholder="select count..." />
+            <marker date="1348219444000" expanded="true" signature="77597:77943" placeholder="select pa.pr..TABLE_PRODUCTS_ATTRIBUTES..." />
+            <marker date="1348219444000" expanded="true" signature="78052:78239" placeholder="select pa.pr..TABLE_PRODUCTS_ATTRIBUTES..." />
+            <marker date="1348219444000" expanded="true" signature="78556:78706" placeholder="select count..." />
+            <marker date="1348219444000" expanded="true" signature="80691:80787" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="80868:81003" placeholder="select * fro..TABLE_PRODUCTS_ATTRIBUTES..." />
+            <marker date="1348219444000" expanded="true" signature="81219:81480" placeholder="select * fro..TABLE_PRODUCTS_ATTRIBUTES..." />
+            <marker date="1348219444000" expanded="true" signature="82873:85564" placeholder="insert into ..." />
+            <marker date="1348219444000" expanded="true" signature="90894:90999" placeholder="select direc..TABLE_LANGUAGES..." />
+            <marker date="1348219444000" expanded="true" signature="91321:91499" placeholder="select produ..TABLE_PRODUCTS_OPTIONS..." />
+            <marker date="1348219444000" expanded="true" signature="91732:91939" placeholder="select produ..TABLE_PRODUCTS_OPTIONS..." />
+            <marker date="1348219444000" expanded="true" signature="92134:92223" placeholder="select direc..TABLE_LANGUAGES..." />
+            <marker date="1348219444000" expanded="true" signature="92477:92730" placeholder="select pa.pr..TABLE_PRODUCTS_ATTRIBUTES..." />
+            <marker date="1348219444000" expanded="true" signature="92796:92947" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="93017:93116" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="93344:93688" placeholder="select disti..TABLE_PRODUCTS_ATTRIBUTES..." />
+            <marker date="1348219444000" expanded="true" signature="99263:99636" placeholder="select pa.pr..TABLE_PRODUCTS_ATTRIBUTES..." />
+            <marker date="1348219444000" expanded="true" signature="100951:101324" placeholder="select pa.pr..TABLE_PRODUCTS_ATTRIBUTES..." />
+            <marker date="1348219444000" expanded="true" signature="102219:102397" placeholder="select p.pro..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="103063:103225" placeholder="select paren..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="103881:103997" placeholder="select produ..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="104392:104554" placeholder="select paren..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="104855:104970" placeholder="select confi..TABLE_CONFIGURATION..." />
+            <marker date="1348219444000" expanded="true" signature="107013:107110" placeholder="select type_..TABLE_PRODUCT_TYPES..." />
+            <marker date="1348219444000" expanded="true" signature="109011:109172" placeholder="select confi..TABLE_PRODUCT_TYPE_LAYOUT..." />
+            <marker date="1348219444000" expanded="true" signature="109570:109728" placeholder="select count..." />
+            <marker date="1348219444000" expanded="true" signature="110106:110531" placeholder="select c.cat..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="111192:111222" placeholder="select categ..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="111544:111572" placeholder="select produ..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="111896:111910" placeholder="select * fro..TABLE_PRODUCTS_TO_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="112626:112741" placeholder="select produ..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="112785:112995" placeholder="select categ..TABLE_CATEGORIES_DESCRIPTION..." />
+            <marker date="1348219444000" expanded="true" signature="113162:113478" placeholder="select count..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="113725:113883" placeholder="select categ..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="115027:115294" placeholder="select count..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="115377:115640" placeholder="select p.pro..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="115770:116098" placeholder="select count..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="116183:116507" placeholder="select p.pro..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="117063:117221" placeholder="select categ..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="118315:118802" placeholder="select ptc.p..TABLE_PRODUCTS_TO_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="119438:119531" placeholder="select produ..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="120809:120975" placeholder="select produ..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="122823:122917" placeholder="select categ..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="123012:123234" placeholder="select * fro..TABLE_PRODUCT_TYPES_TO_CATEGORY..." />
+            <marker date="1348219444000" expanded="true" signature="123897:123991" placeholder="select categ..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="124085:124288" placeholder="delete from ..." />
+            <marker date="1348219444000" expanded="true" signature="125182:125271" placeholder="select produ..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="125330:125451" placeholder="select type_..TABLE_PRODUCT_TYPES..." />
+            <marker date="1348219444000" expanded="true" signature="125632:125772" placeholder="select confi..TABLE_PRODUCT_TYPE_LAYOUT..." />
+            <marker date="1348219444000" expanded="true" signature="126106:126240" placeholder="select confi..TABLE_CONFIGURATION..." />
+            <marker date="1348219444000" expanded="true" signature="126703:126792" placeholder="select produ..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="126851:126972" placeholder="select type_..TABLE_PRODUCT_TYPES..." />
+            <marker date="1348219444000" expanded="true" signature="128755:128866" placeholder="select sale_..TABLE_SALEMAKER_SALES..." />
+            <marker date="1348219444000" expanded="true" signature="129104:129228" placeholder="select produ..TABLE_PRODUCTS_TO_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="129564:129670" placeholder="select produ..TABLE_PRODUCTS_DISCOUNT_QUANTITY..." />
+            <marker date="1348219444000" expanded="true" signature="130008:130172" placeholder="select produ..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="130668:130787" placeholder="select * fro..TABLE_PRODUCTS_DISCOUNT_QUANTITY..." />
+            <marker date="1348219444000" expanded="true" signature="130926:131239" placeholder="insert into ..." />
+            <marker date="1348219444000" expanded="true" signature="131489:131655" placeholder="select maste..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="134803:135083" placeholder="select p.pro..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="135132:135472" placeholder="select p.pro..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="135825:135953" placeholder="select categ..TABLE_CATEGORIES..." />
+            <marker date="1348219444000" expanded="true" signature="136449:136600" placeholder="select geo_z..TABLE_GEO_ZONES..." />
+            <marker date="1348219444000" expanded="true" signature="137322:137622" placeholder="SELECT c.*, ..TABLE_CUSTOMERS..." />
+            <marker date="1348219444000" expanded="true" signature="137877:138155" placeholder="SELECT osh.c..TABLE_ORDERS_STATUS_HISTORY..." />
+            <marker date="1348219444000" expanded="true" signature="138397:138672" placeholder="select m.man..TABLE_PRODUCTS..." />
+            <marker date="1348219444000" expanded="true" signature="138913:139005" placeholder="select amoun..TABLE_COUPON_GV_CUSTOMER..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/modules/product/collect_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.117647" vertical-offset="6540" max-vertical-offset="7860">
+          <caret line="473" column="32" selection-start-line="473" selection-start-column="32" selection-end-line="473" selection-end-column="32" />
+          <folding>
+            <marker date="1421511227000" expanded="true" signature="2202:3763" placeholder="select pd.pr..TABLE_PRODUCTS..." />
+            <marker date="1421511227000" expanded="true" signature="4156:4295" placeholder="select manuf..TABLE_MANUFACTURERS..." />
+            <marker date="1421511227000" expanded="true" signature="4661:4788" placeholder="select tax_c..TABLE_TAX_CLASS..." />
+            <marker date="1421511227000" expanded="true" signature="29934:29961" placeholder="..." />
+            <marker date="1421511227000" expanded="true" signature="30357:30384" placeholder="..." />
+            <marker date="1421511227000" expanded="true" signature="30955:30980" placeholder="..." />
+            <marker date="1421511227000" expanded="true" signature="31148:31171" placeholder="..." />
+            <marker date="1421511227000" expanded="true" signature="31855:31880" placeholder="..." />
+            <marker date="1421511227000" expanded="true" signature="31983:32006" placeholder="..." />
+            <marker date="1421511227000" expanded="true" signature="32261:32286" placeholder="..." />
+            <marker date="1421511227000" expanded="true" signature="32389:32412" placeholder="..." />
+            <marker date="1421511227000" expanded="true" signature="32709:32802" placeholder="..." />
+            <marker date="1421511227000" expanded="true" signature="32813:32832" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/configure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.9607844" vertical-offset="347" max-vertical-offset="1545">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/modules/new_product_preview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.705882" vertical-offset="0" max-vertical-offset="645">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/modules/product_music/update_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.28553298" vertical-offset="225" max-vertical-offset="3300">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1329248950000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/functions/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18726592" vertical-offset="0" max-vertical-offset="1350">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#6#310#0#PHP" expanded="true" />
+            <marker date="1348149462000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/modules/product/preview_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.294118" vertical-offset="375" max-vertical-offset="2715">
+          <caret line="66" column="98" selection-start-line="66" selection-start-column="98" selection-end-line="66" selection-end-column="98" />
+          <folding>
+            <marker date="1421524251000" expanded="true" signature="641:1776" placeholder="select p.pro..TABLE_PRODUCTS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/classes/currencies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1348147782000" expanded="true" signature="-1:-1" placeholder="select code,..TABLE_CURRENCIES..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5294118" vertical-offset="867" max-vertical-offset="5805">
+          <caret line="63" column="90" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="99" />
+          <folding>
+            <element signature="e#6#281#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/languages/schinese.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3426396" vertical-offset="6915" max-vertical-offset="10920">
+          <caret line="486" column="7" selection-start-line="486" selection-start-column="7" selection-end-line="486" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9881735" vertical-offset="287" max-vertical-offset="2745">
+          <caret line="120" column="179" selection-start-line="120" selection-start-column="178" selection-end-line="120" selection-end-column="179" />
+          <folding>
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select start..TABLE_COUNTER..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select order..TABLE_ORDERS_STATUS..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select c.cus..TABLE_CUSTOMERS..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select start..TABLE_COUNTER_HISTORY..." />
+            <marker date="1329247694000" expanded="true" signature="-1:-1" placeholder="select o.ord..TABLE_ORDERS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0588236" vertical-offset="570" max-vertical-offset="1920">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding>
+            <element signature="e#6#908#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/image_handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-230.88235" vertical-offset="0" max-vertical-offset="17310">
+          <caret line="795" column="96" selection-start-line="795" selection-start-column="92" selection-end-line="795" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiwpa/includes/modules/update_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.261498" vertical-offset="544" max-vertical-offset="3030">
+          <caret line="157" column="18" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="18" />
+          <folding>
+            <marker date="1421523619000" expanded="true" signature="4973:5164" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

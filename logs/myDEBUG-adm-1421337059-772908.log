@@ -1,0 +1,2 @@
+[15-Jan-2015 16:50:59 Europe/Berlin] PHP Warning:  require(MKNapps/upload.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/zencartmkns/uiwpa/mkn_test.php on line 21
+[15-Jan-2015 16:50:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'MKNapps/upload.php' (include_path='.:/Applications/MAMP/bin/php/php5.6.2/lib/php') in /Applications/MAMP/htdocs/zencartmkns/uiwpa/mkn_test.php on line 21
